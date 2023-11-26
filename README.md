@@ -22,7 +22,7 @@ As a newcomer to GitHub, I am keenly interested in contributing to open-source p
 If you're working on something you think I can contribute to, please reach out. I'm always eager to explore new ideas and engage in collaborations, especially in embedded systems and software development.
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Christopher M. Rodriguez](www.linkedin.com/in/christoher-m-rodriguez)
+- **LinkedIn**: [Christopher M. Rodriguez](https://www.linkedin.com/in/christopher-moises-rodriguez)
 - **Email**: [chrisrod115@gmail.com](mailto:chrisrod115@gmail.com)
 
 <!---
